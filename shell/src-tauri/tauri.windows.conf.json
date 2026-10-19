@@ -1,0 +1,11 @@
+{
+  "productName": "所得",
+  "mainBinaryName": "所得",
+  "bundle": {
+    "windows": {
+      "nsis": {
+        "installMode": "currentUser"
+      }
+    }
+  }
+}

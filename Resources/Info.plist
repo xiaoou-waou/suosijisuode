@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>所得</string>
+	<key>CFBundleExecutable</key>
+	<string>所得</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.xiaoou.suode</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>所得</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.6.1</string>
+	<key>CFBundleVersion</key>
+	<string>12</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>所得 asks QuickTime Player to open a recording at the moment that matched your search.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>所得 indexes the folders you choose so you can search them by describing what's inside. Everything stays on this Mac.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>所得 indexes the folders you choose so you can search them by describing what's inside. Everything stays on this Mac.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>所得 indexes the folders you choose so you can search them by describing what's inside. Everything stays on this Mac.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>所得 indexes the folders you choose so you can search them by describing what's inside. Everything stays on this Mac.</string>
+	<key>SUEnableAutomaticChecks</key>
+	<false/>
+	<key>SUFeedURL</key>
+	<string>https://raw.githubusercontent.com/xiaoou-waou/suosijisuode/main/appcast.xml</string>
+</dict>
+</plist>
